@@ -1,0 +1,14 @@
+{
+  "Number_of_Planets": 3,
+  "Planet": 
+    {
+      "Name": "Ardora",
+      "Characteristics": {
+        "Surface": "Lava deserts and erupting volcanoes",
+        "Temperature (°C)": ">1,000°C"
+      },
+      "Satellites": 1
+    },
+  
+  "History": "The three planets, despite their differences, established an interstellar alliance and cooperation. They shared knowledge, resources, and technology, thriving together in their remote corner of the galaxy, becoming an inspiration for other worlds seeking peace and cooperation in the cosmos."
+}
